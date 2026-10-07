@@ -1,75 +1,47 @@
-# Calvary Castle Rock — Genesis podcast feed
+# Calvary Castle Rock — Genesis podcast feed (v2)
 
-This tiny project converts the public Genesis teaching archive at:
+This version handles Calvary's **lazy-loaded/infinite-scroll Genesis archive**.
 
-https://calvarycr.com/archives/genesis-2/
+It opens the page in a real Chromium browser, scrolls until the page stops
+loading additional sermons, extracts the individual sermon pages, finds their
+audio files, and writes a Podcast Addict-compatible `feed.xml`.
 
-into a normal RSS podcast feed that apps such as Podcast Addict can subscribe to.
+The expected-series sanity-check currently contains **75 titles**
+from January 10, 2021 through January 29, 2023.
 
-## Fast setup with GitHub Pages
+## Install in your existing GitHub repository
 
-1. Create a new **public GitHub repository**. A name such as:
-   `calvary-genesis-feed`
-   works well.
+Replace the previous files with these:
+- `generate_feed.py`
+- `requirements.txt`
+- `expected_titles.json`
+- `.github/workflows/update-feed.yml`
 
-2. Upload all files from this folder to the repository, preserving the
-   `.github/workflows/update-feed.yml` path.
+Then commit/push.
 
-3. In GitHub, open **Actions** and run:
-   **Update Genesis podcast feed → Run workflow**
+## Run it
 
-4. After the action completes, confirm that a `feed.xml` file appeared in the
-   root of the repository.
+GitHub:
+**Actions → Update Genesis podcast feed → Run workflow**
 
-5. Open **Settings → Pages**.
-   Under **Build and deployment**, choose:
-   - Source: **Deploy from a branch**
-   - Branch: **main**
-   - Folder: **/(root)**
-   Save.
+Watch the run log. Near the end you should see:
+- `Audio episodes found: ...`
+- `Wrote feed.xml with ... episodes.`
 
-6. Your podcast URL will normally be:
+The script deliberately refuses to overwrite the feed if it discovers fewer
+than 60 audio episodes, protecting you from a temporary site-loading failure.
 
-   `https://YOUR-GITHUB-USERNAME.github.io/calvary-genesis-feed/feed.xml`
+## Podcast Addict URL for staceriley
 
-   If you chose a different repository name, substitute that name.
+Assuming the repository is named `calvary-genesis-feed` and GitHub Pages is
+enabled from the `main` branch root:
 
-## Add it to Podcast Addict
+https://staceriley.github.io/calvary-genesis-feed/feed.xml
 
 In Podcast Addict:
+**+ → RSS feed → paste URL → Subscribe**
 
-1. Tap **+**
-2. Choose **RSS feed**
-3. Paste the GitHub Pages `feed.xml` URL
-4. Subscribe
+## Copyright / hosting
 
-The podcast should appear as:
-
-**Calvary Castle Rock — Genesis Archive**
-
-## Updating
-
-The GitHub Action is scheduled to rebuild the feed once a week. You can also
-open **Actions → Update Genesis podcast feed → Run workflow** at any time.
-
-Because the Genesis series is an archive, it generally will not need frequent
-updates.
-
-## Local test (optional)
-
-With Python installed:
-
-```bash
-pip install -r requirements.txt
-python generate_feed.py
-```
-
-That creates `feed.xml` in the current folder.
-
-## Notes
-
-- This project does **not** copy or re-host sermon audio. The RSS file only
-  points Podcast Addict to Calvary Castle Rock's own public audio files.
-- This is an unofficial personal convenience feed.
-- If Calvary changes its website structure, `generate_feed.py` may need a small
-  update.
+This feed does not re-host Calvary's sermon audio. Each RSS enclosure points
+to Calvary Castle Rock's own publicly hosted audio file.
