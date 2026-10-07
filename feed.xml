@@ -1,2 +1,612 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"><channel><title>Calvary Castle Rock — Genesis Archive</title><link>https://calvarycr.com/archives/genesis-2/</link><description>Run the GitHub Action to populate this feed.</description></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Calvary Castle Rock — Genesis Archive</title>
+    <link>https://calvarycr.com/archives/genesis-2/</link>
+    <description>Unofficial RSS wrapper for the public Calvary Castle Rock Genesis teaching archive.</description>
+    <language>en-us</language>
+    <itunes:author>Pastor Dave Love / Calvary Castle Rock</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Genesis 49-50</title>
+      <link>https://calvarycr.com/genesis-49-50/</link>
+      <guid isPermaLink="false">a95629f3c6a9e9a8f2f88ce89843b1e3b2f3d196eb1874f464f034181cbb36e3</guid>
+      <pubDate>Mon, 30 Jan 2023 00:21:30 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-49-50/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20230129-9am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 49:13-27</title>
+      <link>https://calvarycr.com/genesis-4913-27/</link>
+      <guid isPermaLink="false">e6e5db73b75474256b0b9606eedc791f93dc6994094da734424b65a0021c2059</guid>
+      <pubDate>Sun, 22 Jan 2023 21:44:08 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-4913-27/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20230122-11am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 49</title>
+      <link>https://calvarycr.com/genesis-49/</link>
+      <guid isPermaLink="false">5354b25f5a56c7ca9bb8c8c6630c2e4f7f4bca4b2c5da6fdb79834d2b84d46f5</guid>
+      <pubDate>Sun, 15 Jan 2023 22:33:44 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-49/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20230115.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 47:27-31 &amp; 48</title>
+      <link>https://calvarycr.com/genesis-4727-31-48/</link>
+      <guid isPermaLink="false">c98a28a666f721178e8b2cfa9d3719384af1a54315611ba79985d2bb8ceabd17</guid>
+      <pubDate>Sun, 08 Jan 2023 22:31:35 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-4727-31-48/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20230108.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 46-47:26</title>
+      <link>https://calvarycr.com/genesis-46-47_26/</link>
+      <guid isPermaLink="false">e2699e1b43696354db8946e79aa94de02f76826974a9476d35a42f730961552a</guid>
+      <pubDate>Sun, 18 Dec 2022 16:00:03 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-46-47_26/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20221218-9am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 44-45</title>
+      <link>https://calvarycr.com/genesis-44-45/</link>
+      <guid isPermaLink="false">2b59ca96908fdfaf0cc28265204affe0ed1845d83e2c1029f7c3fa0fd8af96d4</guid>
+      <pubDate>Sun, 11 Dec 2022 16:00:36 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-44-45/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20221211-9am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 42-43</title>
+      <link>https://calvarycr.com/genesis-42-43/</link>
+      <guid isPermaLink="false">e4c5128f9229ebad2675aa3e85645b315cee4ffc793f5aeac6612a94e8277b40</guid>
+      <pubDate>Sun, 27 Nov 2022 16:00:53 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-42-43/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20221127-9am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 41:45-57</title>
+      <link>https://calvarycr.com/genesis-4145-genesis-42/</link>
+      <guid isPermaLink="false">d4d3d21b2495800ba82b516dedc30564e356d5d3f81bcc3a8fb387486e6b7d42</guid>
+      <pubDate>Sun, 06 Nov 2022 16:00:12 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-4145-genesis-42/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20221106-9am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 40-41:44</title>
+      <link>https://calvarycr.com/genesis-40-41/</link>
+      <guid isPermaLink="false">53d0b5f6ee9619be5745553a9378a5e14c6a0d258b7532ad7a2991f2ae402379</guid>
+      <pubDate>Sun, 30 Oct 2022 17:00:58 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-40-41/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20221030-11am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 39</title>
+      <link>https://calvarycr.com/genesis-39/</link>
+      <guid isPermaLink="false">518a6ddaf79d025d277953217998e3e7586d713ba2c4c05da3580650de1db2f0</guid>
+      <pubDate>Sun, 23 Oct 2022 17:00:52 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-39/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20221023-11am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 38</title>
+      <link>https://calvarycr.com/genesis-38/</link>
+      <guid isPermaLink="false">613c648a71b3853c0428bb87516c6f1efba80bae41eb654c277919b8a022b6e0</guid>
+      <pubDate>Sun, 09 Oct 2022 17:00:17 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-38/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20221009-11am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 37</title>
+      <link>https://calvarycr.com/genesis-37/</link>
+      <guid isPermaLink="false">27cb72f957591bc427156def2b6d232488dfdb4b7188a9e20939e836984c3c5e</guid>
+      <pubDate>Sun, 02 Oct 2022 15:00:33 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-37/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20221002-9am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 36</title>
+      <link>https://calvarycr.com/genesis-36/</link>
+      <guid isPermaLink="false">b07fb010c965d4bec63df8102912d9635182e47340416c9fdcb670a1b978147f</guid>
+      <pubDate>Sun, 18 Sep 2022 15:00:06 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-36/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20220918-9am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 35</title>
+      <link>https://calvarycr.com/genesis-35/</link>
+      <guid isPermaLink="false">705038d31be5c53cbb0eca7d5e08c30fc4f194ba8dcb9184e62bce41d423991f</guid>
+      <pubDate>Sun, 11 Sep 2022 15:00:39 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-35/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20220911-9am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 33 &amp; 34</title>
+      <link>https://calvarycr.com/genesis-33-34/</link>
+      <guid isPermaLink="false">4c3df041777cbb9b048521ff190be363be1c8cb087b938d459457f4b2d5ff8b3</guid>
+      <pubDate>Sun, 21 Aug 2022 15:00:02 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-33-34/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20220821-9am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 32</title>
+      <link>https://calvarycr.com/genesis-32/</link>
+      <guid isPermaLink="false">7cafb1d910907e744a175824ea3b315f013fb1f650499b6391d7a717c14f90ea</guid>
+      <pubDate>Sun, 14 Aug 2022 15:00:41 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-32/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20220814-9am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 31</title>
+      <link>https://calvarycr.com/genesis-31/</link>
+      <guid isPermaLink="false">a6813917ac40b3580ed5bbb1b75eef3d09458fe77a6d626413e899fabc7b400e</guid>
+      <pubDate>Sun, 31 Jul 2022 15:00:43 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-31/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20220731-9am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 29:31-35; Ch. 30</title>
+      <link>https://calvarycr.com/genesis2931-35-30/</link>
+      <guid isPermaLink="false">e79150b1a74e7243b7e4de4e313c6638e6963f9d8818a784d2daa492d1815484</guid>
+      <pubDate>Sun, 24 Jul 2022 15:00:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis2931-35-30/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20220724-9am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 29:1-30</title>
+      <link>https://calvarycr.com/genesis-29/</link>
+      <guid isPermaLink="false">059dbd10525b6f2d584a9d2a9b7992f17ca7f09d0c21445ba8a2b585c7517425</guid>
+      <pubDate>Sun, 17 Jul 2022 15:00:02 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-29/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20220717-9am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 28</title>
+      <link>https://calvarycr.com/genesis-28/</link>
+      <guid isPermaLink="false">4eea08735884a81cdc0ada374625000e511b3796a8f83beffeadcc7dc6389174</guid>
+      <pubDate>Sun, 03 Jul 2022 17:00:06 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-28/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20220703-11am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 27</title>
+      <link>https://calvarycr.com/genesis-27/</link>
+      <guid isPermaLink="false">ba4c9d6fd1128a565f9b3d7847fa1094c193aab25f812cf10da6470cfd80951d</guid>
+      <pubDate>Sun, 26 Jun 2022 15:00:04 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-27/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20220626-9am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 26</title>
+      <link>https://calvarycr.com/genesis-26/</link>
+      <guid isPermaLink="false">c231c93aec34fdc33ec6b097e8e90fe3926c08fb37c9110cb0dca329a391b4f9</guid>
+      <pubDate>Sun, 19 Jun 2022 15:00:34 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-26/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20220619-9am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Jacob I Have Loved, But Esau I Have Hated</title>
+      <link>https://calvarycr.com/jacob-i-have-loved-but-esau-i-have-hated-2/</link>
+      <guid isPermaLink="false">955ebadcc195c8aedd6c5a73931752524b5676683fc273297b8ab723ca41826a</guid>
+      <pubDate>Sun, 12 Jun 2022 15:00:44 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/jacob-i-have-loved-but-esau-i-have-hated-2/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20220612-9am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 25</title>
+      <link>https://calvarycr.com/genesis-25/</link>
+      <guid isPermaLink="false">589d953eab2f41a6adb00ab7b2be1d07acaa4798291c764eb493399ffba5a437</guid>
+      <pubDate>Sun, 05 Jun 2022 15:00:19 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-25/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20220605-9am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 22-24</title>
+      <link>https://calvarycr.com/genesis-22-24/</link>
+      <guid isPermaLink="false">12b7a30a372a0b4ec87f9ed2b06cbe7fc847ac544f14eba38b5229f44551a700</guid>
+      <pubDate>Sun, 29 May 2022 17:00:50 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-22-24/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20220529-11am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 22</title>
+      <link>https://calvarycr.com/genesis-22/</link>
+      <guid isPermaLink="false">8f30a689f97102e12df30f8ad24f2febd691ab27648ccc567cd794b0d02a2683</guid>
+      <pubDate>Sun, 15 May 2022 17:00:18 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-22/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20220515-11am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 21</title>
+      <link>https://calvarycr.com/genesis-21/</link>
+      <guid isPermaLink="false">f8d3a404bbbb1052b0b527307bdb6d293e99f9c730442ef391a06e21ff372b45</guid>
+      <pubDate>Sun, 08 May 2022 17:00:19 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-21/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20220508-9am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 20</title>
+      <link>https://calvarycr.com/genesis-20/</link>
+      <guid isPermaLink="false">d424ffe3c0bf7a9094fde69c5caa437994312b254487e9e411336c68c86c88d5</guid>
+      <pubDate>Sun, 10 Apr 2022 17:00:31 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-20/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20220410-11am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 19:12-38</title>
+      <link>https://calvarycr.com/genesis-1912-38/</link>
+      <guid isPermaLink="false">5606851cfd0903196619401ab15d0aedd4ba15df91b3221e04d3c4e014271c74</guid>
+      <pubDate>Sun, 03 Apr 2022 15:00:56 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-1912-38/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20220403-9am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 19</title>
+      <link>https://calvarycr.com/genesis-19/</link>
+      <guid isPermaLink="false">43338562bd369ac5022dd7cef974d9ca3e1c42a3e690009e3928ac93ee52346e</guid>
+      <pubDate>Sun, 27 Mar 2022 15:00:34 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-19/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20220327-9am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 18</title>
+      <link>https://calvarycr.com/genesis-18/</link>
+      <guid isPermaLink="false">98f1c6a23e0919d093c8ccc99a3000377b3610bb54f7ab0de93694b586210513</guid>
+      <pubDate>Sun, 20 Mar 2022 19:00:40 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-18/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20220320-9am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Dispensations – Part V</title>
+      <link>https://calvarycr.com/dispensations-part-v/</link>
+      <guid isPermaLink="false">efa310e652f1dda93f16aae28e7b77e218cca61345e5d5ab5ae03e7d55e68649</guid>
+      <pubDate>Sun, 06 Mar 2022 17:58:18 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/dispensations-part-v/</description>
+      <enclosure url="http://www.calvarycr.com/abiding/genesis/20220306-11am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Dispensations – Part IV</title>
+      <link>https://calvarycr.com/dispensations-part-iv/</link>
+      <guid isPermaLink="false">2f5adaf7dda9fb9a8d652bd0e4c1102e059155a1db48d1d8f8fbc6072d2fd1b6</guid>
+      <pubDate>Sun, 27 Feb 2022 19:00:40 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/dispensations-part-iv/</description>
+      <enclosure url="http://www.calvarycr.com/abiding/genesis/20220227-9am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Dispensations – Part III</title>
+      <link>https://calvarycr.com/dispensations-part-iii/</link>
+      <guid isPermaLink="false">156418034a420816bfbc22b9c46e5cc345f9d48fec3cadaa955febeafe571bf0</guid>
+      <pubDate>Sun, 20 Feb 2022 19:00:11 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/dispensations-part-iii/</description>
+      <enclosure url="http://www.calvarycr.com/abiding/genesis/20220220-11am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Dispensations – Part II</title>
+      <link>https://calvarycr.com/dispensations-part-ii/</link>
+      <guid isPermaLink="false">105cdc1418c5e088b37b41fa9202db857d377e745a1a6e90f9e271d7ff822bd5</guid>
+      <pubDate>Sun, 13 Feb 2022 19:00:43 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/dispensations-part-ii/</description>
+      <enclosure url="http://www.calvarycr.com/abiding/genesis/20220213-11am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Dispensations – Part I</title>
+      <link>https://calvarycr.com/dispensations-part-1/</link>
+      <guid isPermaLink="false">50f8b2bb80a3705e32fc9fef7eb7bcfd0d0a3aa1ef936927da7e55691d8c4f53</guid>
+      <pubDate>Mon, 07 Feb 2022 22:00:05 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/dispensations-part-1/</description>
+      <enclosure url="http://www.calvarycr.com/abiding/genesis/20220207-11am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 17:9-17</title>
+      <link>https://calvarycr.com/genesis-179-17/</link>
+      <guid isPermaLink="false">999b52cec00a40fd60f77f7fc714bd0e0f64b4cb2bd58cb620eb00865c4545fd</guid>
+      <pubDate>Sun, 30 Jan 2022 18:00:53 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-179-17/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20220130-9am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 17</title>
+      <link>https://calvarycr.com/genesis-17/</link>
+      <guid isPermaLink="false">76fec8121d7454955df6fb030f31c73070b229bd9848885d9e2a25ab9809372b</guid>
+      <pubDate>Sun, 23 Jan 2022 18:00:36 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-17/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20220123-9am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 16</title>
+      <link>https://calvarycr.com/genesis-16/</link>
+      <guid isPermaLink="false">682b7fb95fe3215b5c797819249cafd970b24a60924e2a2ff18ca1b2b5cfe006</guid>
+      <pubDate>Sun, 16 Jan 2022 18:00:41 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-16/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20220116-9am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 15:7-21</title>
+      <link>https://calvarycr.com/genesis-157-21/</link>
+      <guid isPermaLink="false">64a9822fdf9c41c77d49df39c84238681def1f189108b87902fdcfbb96fcc4e3</guid>
+      <pubDate>Sun, 09 Jan 2022 18:00:52 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-157-21/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20220109-11am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 15:1-6</title>
+      <link>https://calvarycr.com/genesis-15_1-6/</link>
+      <guid isPermaLink="false">a5963df29b381eb124d93d358503e4593eab3950cf68933a7f54cdf352adf293</guid>
+      <pubDate>Sun, 19 Dec 2021 08:00:26 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-15_1-6/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20211219.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 14:18-20</title>
+      <link>https://calvarycr.com/genesis-14_18-20/</link>
+      <guid isPermaLink="false">c2be5e8f9dd48a3a9a4baa9e9d66dea0c845bb31223c42592a0301fff107266c</guid>
+      <pubDate>Sun, 12 Dec 2021 08:00:38 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-14_18-20/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20211212.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 14</title>
+      <link>https://calvarycr.com/genesis-14/</link>
+      <guid isPermaLink="false">6994b259e970d86bb960db6ba866a55ab32b8abe261a6732be2dbe5756a226cb</guid>
+      <pubDate>Sun, 05 Dec 2021 08:00:12 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-14/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20211205.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 12-13</title>
+      <link>https://calvarycr.com/genesis-12_13/</link>
+      <guid isPermaLink="false">4cc645ba0baf4165f80fc5321fcbc08c38dcf4e2955af290532c099e7c97936d</guid>
+      <pubDate>Sun, 28 Nov 2021 23:12:28 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-12_13/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20211128.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 11:10-32</title>
+      <link>https://calvarycr.com/genesis-031/</link>
+      <guid isPermaLink="false">1cbbc84356ac1533fd1fe066c06e50fab67757ebf84a9ce9f2151606fa772412</guid>
+      <pubDate>Sun, 07 Nov 2021 18:00:32 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-031/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20211107-11am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 11</title>
+      <link>https://calvarycr.com/genesis-030/</link>
+      <guid isPermaLink="false">85974acb46b0ed0656292503eb4c46bae50c1749c1bc226218587e494308da6f</guid>
+      <pubDate>Sun, 31 Oct 2021 17:00:03 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-030/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20211031-11am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 10</title>
+      <link>https://calvarycr.com/genesis-029/</link>
+      <guid isPermaLink="false">4fca5e4365cebbe2fe6b21b466e130a30806fd303e903863f273565ef418adad</guid>
+      <pubDate>Sun, 10 Oct 2021 17:00:59 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-029/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20211010-11am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 9:8-29</title>
+      <link>https://calvarycr.com/genesis-028/</link>
+      <guid isPermaLink="false">13e93f6cea96e83711c95ac55b2349aa62f477171a9a694f68f4da060717deb5</guid>
+      <pubDate>Sun, 03 Oct 2021 17:00:28 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-028/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20211003-11am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 9:1-6 Part II</title>
+      <link>https://calvarycr.com/genesis-027/</link>
+      <guid isPermaLink="false">9acb1066316c8519938fdc5efbd5c74423f08327fbadde0a533ee0e5e9c6c826</guid>
+      <pubDate>Sun, 19 Sep 2021 19:33:11 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-027/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20210919-11am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 9:1-6</title>
+      <link>https://calvarycr.com/genesis-026/</link>
+      <guid isPermaLink="false">ec7ebcb9df4da8dd0ca1c363573b50cb03105cc0d2d5581b3d8f709e9f237f7f</guid>
+      <pubDate>Sun, 12 Sep 2021 17:59:41 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-026/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20210912-9am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 8:20-9:6</title>
+      <link>https://calvarycr.com/genesis-025/</link>
+      <guid isPermaLink="false">4d9965f9c29f5468288d89a847af536471aa1161e08e2355de3288ce257ed517</guid>
+      <pubDate>Sun, 05 Sep 2021 19:10:40 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-025/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20210905-11am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 8:1-19</title>
+      <link>https://calvarycr.com/genesis-024/</link>
+      <guid isPermaLink="false">4da9e6431dd7362e0e29d83a4d7843a6182acf6866505d07468bcdaab33d9af5</guid>
+      <pubDate>Sun, 29 Aug 2021 19:12:27 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-024/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20210829-9am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 7:17-24</title>
+      <link>https://calvarycr.com/genesis-023/</link>
+      <guid isPermaLink="false">16db189863f90db8e07ff46d856fadab0a871f6bb8a7378498e7949b5faa9bb4</guid>
+      <pubDate>Sun, 22 Aug 2021 19:11:16 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-023/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20210822-9am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 6:17-7:16</title>
+      <link>https://calvarycr.com/genesis-022/</link>
+      <guid isPermaLink="false">727839ed60b199dce296a828a5f35e971b943fb6dde8a076343698ab156b71d6</guid>
+      <pubDate>Sun, 15 Aug 2021 17:31:25 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-022/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20210815-9am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 6:8-16</title>
+      <link>https://calvarycr.com/genesis-021/</link>
+      <guid isPermaLink="false">9c29c89c46e4b1037331b706bb65bf535b94012e880ec3bd8653c18e9ce42204</guid>
+      <pubDate>Sun, 18 Jul 2021 19:44:02 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-021/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20210718-9am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 5 – 6:1-8</title>
+      <link>https://calvarycr.com/genesis-020/</link>
+      <guid isPermaLink="false">998e0e28da76329cabe87defc7523dda505ff30b5dbfe9f8ad5d0f4111b2135a</guid>
+      <pubDate>Sun, 11 Jul 2021 20:22:51 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-020/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20210711-9am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 4:16-26</title>
+      <link>https://calvarycr.com/genesis-019/</link>
+      <guid isPermaLink="false">a878a2e9251856261112f9c8e249114f4d24e2417124d3957c0a53019999c73c</guid>
+      <pubDate>Sun, 04 Jul 2021 19:59:01 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-019/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20210704-9am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 4:1-15</title>
+      <link>https://calvarycr.com/genesis-018/</link>
+      <guid isPermaLink="false">4c7106481af1f5f606633aca3a90ba2705c21a89e86d90b33c996b8eec71692c</guid>
+      <pubDate>Sun, 27 Jun 2021 20:15:43 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-018/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20210627-11am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 3:17-24</title>
+      <link>https://calvarycr.com/genesis-017/</link>
+      <guid isPermaLink="false">e8f2246934971f30002fe4471152b8280229e0f62498ebb39ad78491f02454d3</guid>
+      <pubDate>Sun, 20 Jun 2021 19:18:50 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-017/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20210620-9am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 3:14-16</title>
+      <link>https://calvarycr.com/genesis-016/</link>
+      <guid isPermaLink="false">4526c6a7ee76af38a5c967e291d3d5313960a9df47ecb77ab2e14910b5925ca0</guid>
+      <pubDate>Sun, 13 Jun 2021 16:50:22 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-016/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20210613-11am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 3:7-19</title>
+      <link>https://calvarycr.com/genesis-015/</link>
+      <guid isPermaLink="false">a1e40774a696c74a30861d31e5dbe55f8614496a06f0cf4a6960136d1431838d</guid>
+      <pubDate>Sun, 06 Jun 2021 16:01:55 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-015/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20210606-9am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 3:1-7</title>
+      <link>https://calvarycr.com/genesis-014/</link>
+      <guid isPermaLink="false">fa26aecebd831ad4fff0670e3d62e8738fee00a83436670e3ed474962493f8e8</guid>
+      <pubDate>Sun, 16 May 2021 18:34:48 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-014/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20210516-11am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 2:18-25</title>
+      <link>https://calvarycr.com/genesis-013/</link>
+      <guid isPermaLink="false">11c8539043c6f455f22931214c8d0d71a1b9083a392d78d39a069db916c2ee58</guid>
+      <pubDate>Sun, 09 May 2021 20:45:10 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-013/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20210509-11am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 2:8-17</title>
+      <link>https://calvarycr.com/genesis-012/</link>
+      <guid isPermaLink="false">f80f6406560352a2e5db465142ff39996fb3f653a16af25ed56e7cb4619ab657</guid>
+      <pubDate>Sun, 25 Apr 2021 20:28:28 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-012/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20210425-9am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 2:4-7</title>
+      <link>https://calvarycr.com/genesis-011/</link>
+      <guid isPermaLink="false">56e8b28ef5f0bc597927c225160670bdf9548fb7585cfc0dfe6816c315fad2db</guid>
+      <pubDate>Sun, 18 Apr 2021 14:41:39 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-011/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20210418-11am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 2:1-4</title>
+      <link>https://calvarycr.com/genesis-010/</link>
+      <guid isPermaLink="false">1358b6521d2b43e8b91450aed7b083f4512d5331ddb9948c9c1c6d2f362268fa</guid>
+      <pubDate>Sun, 11 Apr 2021 17:29:09 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-010/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20210411-11am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 1:26-31</title>
+      <link>https://calvarycr.com/genesis-009/</link>
+      <guid isPermaLink="false">13bbfc1d18813d6cd9b1ce7709a2983f3114dc418f7fcec2485a3b10f9a611d3</guid>
+      <pubDate>Sun, 28 Mar 2021 23:34:00 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-009/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20210328-11am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 1:20-25</title>
+      <link>https://calvarycr.com/genesis-008/</link>
+      <guid isPermaLink="false">a59d7d26a899ac33f7bdf7751172e6dd3c13d8b4bbd9dbaeed1f4349703a6729</guid>
+      <pubDate>Sun, 21 Mar 2021 21:26:27 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-008/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20210321-9am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 1:14-19</title>
+      <link>https://calvarycr.com/genesis-007/</link>
+      <guid isPermaLink="false">b33612d5955a32ee3a3430812ec04fd263c172088de08c8e47137f02f338a567</guid>
+      <pubDate>Sun, 07 Mar 2021 21:38:55 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-007/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20210307-9am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 1:6-13</title>
+      <link>https://calvarycr.com/genesis-006/</link>
+      <guid isPermaLink="false">479f03e7cc9b7e68337086a907bfc8e8ff69acf8b6b49755959e274a852ad63a</guid>
+      <pubDate>Sun, 28 Feb 2021 21:55:42 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-006/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20210228-11am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 1:2-5</title>
+      <link>https://calvarycr.com/genesis-005/</link>
+      <guid isPermaLink="false">9fea31fb75ea77973ee24ae6f3916b19cb6d174c84972fa7f5883562dfd2b5cc</guid>
+      <pubDate>Sun, 21 Feb 2021 17:57:09 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-005/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20210221-11am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 1:2</title>
+      <link>https://calvarycr.com/genesis-004/</link>
+      <guid isPermaLink="false">11e005b5a4725e202962a0bb488e852931d6bfc84382b318cdc66614d529cfb5</guid>
+      <pubDate>Sun, 14 Feb 2021 20:47:32 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-004/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20210214-11am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 1:1b</title>
+      <link>https://calvarycr.com/genesis-003/</link>
+      <guid isPermaLink="false">7c7ec442aa833717f56930d842da66457d1c99e4be28f1f4fc14b41053fcd1e6</guid>
+      <pubDate>Sun, 07 Feb 2021 21:07:57 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-003/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20210207-9am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis 1:1a</title>
+      <link>https://calvarycr.com/genesis-002/</link>
+      <guid isPermaLink="false">26b0f796137cbfe679096cd543adbc727194d15dab645f9b46a0a42f90bc2aa7</guid>
+      <pubDate>Mon, 18 Jan 2021 01:42:46 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-002/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20210117-11am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Genesis Intro</title>
+      <link>https://calvarycr.com/genesis-001/</link>
+      <guid isPermaLink="false">1d39d34a1a9ad947f7410f9a490736c65b626dded83e0597a53aa0dd1518cace</guid>
+      <pubDate>Sun, 10 Jan 2021 20:53:42 -0600</pubDate>
+      <description>Teaching from Calvary Castle Rock. Original page: https://calvarycr.com/genesis-001/</description>
+      <enclosure url="http://calvarycr.com/abiding/genesis/20210110-9am.mp3" length="0" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
