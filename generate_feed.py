@@ -176,6 +176,14 @@ def build_feed(episodes):
     <link>{ARCHIVE_URL}</link>
     <description>Unofficial RSS wrapper for the public Calvary Castle Rock Genesis teaching archive.</description>
     <language>en-us</language>
+
+    <image>
+      <url>https://calvarycr.com/wp-content/uploads/2021/01/Genesis-01-700x394.jpg</url>
+      <title>Calvary Castle Rock — Genesis Archive</title>
+      <link>{ARCHIVE_URL}</link>
+    </image>
+
+    <itunes:image href="https://calvarycr.com/wp-content/uploads/2021/01/Genesis-01-700x394.jpg"/>
     <itunes:author>Pastor Dave Love / Calvary Castle Rock</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="feed.xml" rel="self" type="application/rss+xml"/>
